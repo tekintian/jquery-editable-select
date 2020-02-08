@@ -15,7 +15,9 @@ It scales down to a real select list when javascript is not available.
 
 # Demo
 
-See demos here: http://indrimuska.github.io/jquery-editable-select/
+EditAble or select able demo see demo.html
+
+more demos See here: http://indrimuska.github.io/jquery-editable-select/
 
 # Installation
 
